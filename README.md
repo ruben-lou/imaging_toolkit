@@ -1,1 +1,1 @@
-# imaging_toolkit
+# Imaging Toolkit
